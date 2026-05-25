@@ -1,0 +1,8 @@
+{
+    "name": "authhandler-service",
+    "version": "1.0.657",
+    "private": false,
+    "environment": "production",
+    "build_id": 206,
+    "allow_public_access": true
+}
